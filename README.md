@@ -1,2 +1,2 @@
 # Sentinel-Desk
-IT Helpdesk + Asset &amp; Security Incident Management System
+IT Helpdesk + Asset &amp; Security Incident Management System (Django Project)
